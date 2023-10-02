@@ -18,7 +18,7 @@ Create a Google Colab button:
 1. Copy the GitHub repo URL
 2. Go to https://openincolab.com/
 3. Fill in the tutorial URL and select 'Generate'
-4. Copy the Markdown code for the button
+4. Copy the HTML code for the button
 5. Launch to build environment
 
 <a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-template">
