@@ -35,7 +35,8 @@ Create a GitHub Source button:
     - *logo*: github
     - *link*: Paste the copied GitHub repo URL
    
-![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdanforthcenter%2Fplantcv-tutorial-template%2F)
+<img alt="Static Badge" src="https://img.shields.io/badge/Open%20on%20GitHub-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdanforthcenter%2Fplantcv-tutorial-template">
+
 
 ## Tutorial tags/keywords
 
