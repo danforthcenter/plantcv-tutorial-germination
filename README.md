@@ -29,7 +29,8 @@ Create a GitHub Source button:
 
 1. Copy the GitHub repo URL
 2. Go to https://shields.io/badges/static-badge
-3. Modify the parameters below to create a uniform button:
+3. On the right-side panel, select ***+Show optional parameters***
+4. Modify the parameters below to create a uniform button:
     - *badgecontent*: Open on GitHub-black
     - *style*: flat
     - *logo*: github
