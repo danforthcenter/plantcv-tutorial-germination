@@ -1,4 +1,4 @@
-# Tutorial Title
+# Germination Studies in PlantCV
 
 Description
 
