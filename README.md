@@ -13,7 +13,7 @@ https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-germination/HEAD?labp
 
 ## Tutorial tags/keywords
 
-tag1, tag2, (e.g. data type, species featured, algorithm, etc) ...
+germination, camelina, seeds
 
 ## Citations
 
