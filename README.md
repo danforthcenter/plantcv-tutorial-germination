@@ -6,11 +6,8 @@ Germination studies are commonly performed to test germination rates of differen
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-germination.git/HEAD?labpath=Index.ipynb)
 
-<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-germination.git">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-germination)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github&link=https%3A%2F%2Fgithub.com%2Fdanforthcenter%2Fplantcv-tutorial-germination.git">
 
 
 ## Tutorial tags/keywords
