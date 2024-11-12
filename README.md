@@ -1,6 +1,6 @@
 # Germination Studies in PlantCV
 
-
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-germination/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-germination/actions/workflows/ci-tests.yml)
 
 Description
 
