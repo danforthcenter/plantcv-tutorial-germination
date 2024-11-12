@@ -1,5 +1,7 @@
 # Germination Studies in PlantCV
 
+
+
 Description
 
 Germination studies are commonly performed to test germination rates of different seed genotypes. This PlantCV module shows how germination tests can be performed on PlantCV.
